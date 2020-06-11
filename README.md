@@ -11,7 +11,7 @@
 git clone https://github.com/libaibuaidufu/vue-boss-admin-template.git
 
 # 进入项目目录
-cd vue-admin-template
+cd vue-boss-admin-template
 
 # 安装依赖
 npm install
