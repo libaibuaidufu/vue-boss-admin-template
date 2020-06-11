@@ -1,4 +1,4 @@
-# vue-admin-template
+# vue-boss-admin-template
 
 **本项目参考学习了 [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template.git)**
 
